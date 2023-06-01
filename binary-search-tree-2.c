@@ -61,6 +61,8 @@ int main()
 	char command;
 	int key;
 	Node* head = NULL;
+
+	printf("[----- [Yongho Bae] [2020039008] -----]\n");
 	
 	do{
 		printf("\n\n");
